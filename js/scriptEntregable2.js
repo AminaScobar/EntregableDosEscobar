@@ -7,7 +7,7 @@ const serviciosMecanicos = [
     },
     {
         id: "at",
-        imagen: "https://media.istockphoto.com/id/1364951743/es/foto/revisando-los-discos-de-freno-de-un-autom%C3%B3vil-moderno-sistema-de-frenado-del-veh%C3%ADculo.jpg?s=1024x1024&w=is&k=20&c=7WiwcXEPoYdVikY1TWEG_o0mkgmS3HUqLj0t-5vk7do=",
+        imagen: "https://www.shutterstock.com/shutterstock/photos/2156760837/display_1500/stock-photo-car-transmission-and-clutch-transmission-gears-with-oil-clutch-transfer-case-and-driveshaft-d-2156760837.jpg",
         servicio: "Cambio de Aceite de caja de transmición",
         precio: 100,
     },
